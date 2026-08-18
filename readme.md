@@ -2,7 +2,7 @@ Meu projeto é criar um app para um oficina mecanica, para acompanhar os serviç
 
 # 📱 Desenvolvimento Mobile — Projeto 1
 
-<img width="800" height="400" alt="giphy-1-" src="https://anoregam.org.br/tendencias-de-tecnologia-para-2022-seguranca-automacao-e-velocidade/" />
+<img width="800" height="400" alt="giphy-1-" src="https://i.pinimg.com/originals/2e/73/92/2e7392bd69172cb64fb648d6a5abb830.gif" />
 
 
 > Meu primeiro projeto focado no aprendizado e na prática de desenvolvimento mobile utilizando o **Android Studio**.
