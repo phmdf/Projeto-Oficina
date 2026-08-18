@@ -1,4 +1,4 @@
-Meu projeto é criar um app para um oficina mecanica, para acompanhar os serviços.
+
 
 # 📱 Desenvolvimento Mobile — Projeto 1
 
@@ -6,6 +6,7 @@ Meu projeto é criar um app para um oficina mecanica, para acompanhar os serviç
 
 
 > Meu primeiro projeto focado no aprendizado e na prática de desenvolvimento mobile utilizando o **Android Studio**.
+
 
 ---
 
@@ -25,7 +26,6 @@ Este repositório foi criado para registrar os primeiros passos na criação de 
 | **Controle de Versão** | Git & GitHub |
 
 ---
-- [x] Manipulação de eventos de interface de usuário (UI)
 
 ## 🚀 Funcionalidades Demonstradas
 
